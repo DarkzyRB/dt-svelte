@@ -1,18 +1,3 @@
-/*
- * @File: dt.entity.ts
- * @Project: dt-svelte
- * @Author: Paul Salcedo F.
- * @Date: Saturday, 8th May 2021 06:21 pm
- * @Email:  paulsalcedo.dev@gmail.com
- * @Last modified by:   Paul Salcedo F.
- * @Last modified time: Saturday, 8th May 2021 06:15 pm
- * @License: Privativo
- * @Copyright: Copyright (c) 2021 Paul Salcedo F.
- */
-
-
-
-
 export interface TableColumnParams {
     label: string | any;
     field: string | any;
